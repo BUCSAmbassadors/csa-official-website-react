@@ -10,6 +10,10 @@ function App() {
       <About />
       <Ambassadors />
       <Clubs />
+      <Contactus />
+      <Fail />
+      <Index />
+      
     </main>
   );
 }
