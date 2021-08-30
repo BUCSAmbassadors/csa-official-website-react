@@ -20,23 +20,23 @@ export default function Fail() {
         <div className="shapes-layer">
           <div className="greentriangle shape rellax" data-rellax-speed={1}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/greentriangle.png" alt="" />
+            <img src="/public/images/greentriangle.png" alt="" />
           </div>
           <div className="purpleline shape rellax" data-rellax-speed={-2}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/purpleline.png" alt="" />
+            <img src="/public/images/purpleline.png" alt="" />
           </div>
           <div className="yellowsqrhole shape rellax" data-rellax-speed={-3}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/yellowemptysqr.png" alt="" />
+            <img src="/public/images/yellowemptysqr.png" alt="" />
           </div>
           <div className="redsmallhex shape rellax" data-rellax-speed={3}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/redsmallhex.png" alt="" />
+            <img src="/public/images/redsmallhex.png" alt="" />
           </div>
           <div className="largegreencircle shape rellax" data-rellax-speed={-4}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/largegreencircle.png" alt="" />
+            <img src="/public/images/largegreencircle.png" alt="" />
           </div>
           <div className="blueline shape rellax" data-rellax-speed={-3}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
@@ -48,31 +48,31 @@ export default function Fail() {
           </div>
           <div className="purplecircle shape rellax" data-rellax-speed={2}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/purplecircle.png" alt="" />
+            <img src="/public/images/purplecircle.png" alt="" />
           </div>
           <div className="yellowline shape rellax" data-rellax-speed={-3}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/yellowline.png" alt="" />
+            <img src="/public/images/yellowline.png" alt="" />
           </div>
           <div className="tinygreencircle shape rellax" data-rellax-speed={4}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/tinygreencircle.png" alt="" />
+            <img src="/public/images/tinygreencircle.png" alt="" />
           </div>
           <div className="bluetri shape rellax" data-rellax-speed={-3}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/bluetri.png" alt="" />
+            <img src="/public/images/bluetri.png" alt="" />
           </div>
           <div className="greenline shape rellax" data-rellax-speed={-2}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/greenline.png" alt="" />
+            <img src="/public/images/greenline.png" alt="" />
           </div>
           <div className="largeredhex shape rellax" data-rellax-speed={5}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/largeredhex.png" alt="" />
+            <img src="/public/images/largeredhex.png" alt="" />
           </div>
           <div className="smallyellowsqr shape rellax" data-rellax-speed={-4}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/smallyellowsqr.png" alt="" />
+            <img src="/public/images/smallyellowsqr.png" alt="" />
           </div>
         </div>
         <div className="sentPage-content">

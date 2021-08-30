@@ -1,5 +1,5 @@
 import React from 'react';
-
+import 'src/css/main.css'
 
 export default function Contactus() {
 return (
@@ -10,7 +10,6 @@ return (
       <meta name="description" content="Boston University's Computer Science Ambassadors" />
       <meta name="keywords" content="BU, BUCSA, BU CSA, BU CS Ambassadors, Boston University, Boston University Computer Science" />
       <title>BU CS Ambassadors | Contact Us</title>
-      <link rel="stylesheet" href="/static/css/main.css" />
       <link rel="preconnect" href="https://fonts.gstatic.com" />
       <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400&family=Rubik:wght@700&display=swap" rel="stylesheet" /> 
       <link rel="shortcut icon" sizes="32x32" href="/static/images/reg logo no background small.png" />
@@ -26,7 +25,7 @@ return (
       <header className="header">
         <a href="index.html" className="logo">
           {/* Graphic as link => Alt attribute indicates path [MWAS] */}
-          <img src="/static/images/reg logo no background small.png" alt="/views/index.html" />
+          <img src="/public/images/reg logo no background small.png" alt="/views/index.html" />
         </a>
         <nav>
           <nav>
@@ -144,7 +143,7 @@ return (
         <div className="footer-bu footer-layer">
           <a href="https://www.bu.edu/" target="_blank">
             {/* Graphic as link => Alt attribute indicates path [MWAS] */}
-            <img src="/static/images/BU-logo.png" alt="https://www.bu.edu/" />
+            <img src="public/images/BU-logo.png" alt="https://www.bu.edu/" />
           </a>
         </div>
       </footer>

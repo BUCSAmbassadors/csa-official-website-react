@@ -8,7 +8,7 @@ import Contactus from './components/Contactus';
 import Fail from './components/Fail';
 import Index from './components/Index';
 
-
+import "./css/main.css";
 
 function App() {
   return (

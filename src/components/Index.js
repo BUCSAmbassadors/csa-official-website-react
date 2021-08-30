@@ -27,7 +27,7 @@ return (
       <header className="header">
         <a href="index.html" className="logo">
           {/* Graphic as link => Alt attribute indicates path [MWAS] */}
-          <img src="/static/images/reg logo no background small.png" alt="/views/index.html" />
+          <img src="/public/images/reg logo no background small.png" alt="/views/index.html" />
         </a>
         <nav>
           <ul className="nav-links">
@@ -64,66 +64,66 @@ return (
         </div>
         <div className="mission-right">
           {/* Adjust accordingly based on content [MWAS] */}
-          <img src="/static/images/home_mission.png" alt="students collaborating on CS" />
+          <img src="/public/images/home_mission.png" alt="students collaborating on CS" />
         </div>
       </section>
       <section className="testimonials">
         <div className="shapes-layer">
           <div className="greentriangle shape rellax" data-rellax-speed={1}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/greentriangle.png" alt="" />
+            <img src="/public/images/greentriangle.png" alt="" />
           </div>
           <div className="purpleline shape rellax" data-rellax-speed={-2}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/purpleline.png" alt="" />
+            <img src="/public/images/purpleline.png" alt="" />
           </div>
           <div className="yellowsqrhole shape rellax" data-rellax-speed={-3}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/yellowemptysqr.png" alt="" />
+            <img src="/public/images/yellowemptysqr.png" alt="" />
           </div>
           <div className="redsmallhex shape rellax" data-rellax-speed={3}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/redsmallhex.png" alt="" />
+            <img src="/public/images/redsmallhex.png" alt="" />
           </div>
           <div className="largegreencircle shape rellax" data-rellax-speed={-4}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/largegreencircle.png" alt="" />
+            <img src="/public/images/largegreencircle.png" alt="" />
           </div>
           <div className="blueline shape rellax" data-rellax-speed={-3}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/blueline.png" alt="" />
+            <img src="/public/images/blueline.png" alt="" />
           </div>
           <div className="greencirclehollow shape rellax" data-rellax-speed={2}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/greencirclehollow.png" alt="" />
+            <img src="/public/images/greencirclehollow.png" alt="" />
           </div>
           <div className="purplecircle shape rellax" data-rellax-speed={2}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/purplecircle.png" alt="" />
+            <img src="/public/images/purplecircle.png" alt="" />
           </div>
           <div className="yellowline shape rellax" data-rellax-speed={-3}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/yellowline.png" alt="" />
+            <img src="/public/images/yellowline.png" alt="" />
           </div>
           <div className="tinygreencircle shape rellax" data-rellax-speed={4}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/tinygreencircle.png" alt="" />
+            <img src="/public/images/tinygreencircle.png" alt="" />
           </div>
           <div className="bluetri shape rellax" data-rellax-speed={-3}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/bluetri.png" alt="" />
+            <img src="/public/images/bluetri.png" alt="" />
           </div>
           <div className="greenline shape rellax" data-rellax-speed={-2}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/greenline.png" alt="" />
+            <img src="/public/images/greenline.png" alt="" />
           </div>
           <div className="largeredhex shape rellax" data-rellax-speed={5}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/largeredhex.png" alt="" />
+            <img src="/public/images/largeredhex.png" alt="" />
           </div>
           <div className="smallyellowsqr shape rellax" data-rellax-speed={-4}>
             {/* Decorative graphic => Blank alt attribute [MWAS] */}
-            <img src="/static/images/smallyellowsqr.png" alt="" />
+            <img src="/public/images/smallyellowsqr.png" alt="" />
           </div>
         </div>
         <div className="testimonials-content">
