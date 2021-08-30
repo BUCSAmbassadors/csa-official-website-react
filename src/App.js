@@ -4,6 +4,12 @@ import About from './components/About';
 import Ambassadors from './components/Ambassadors';
 import Clubs from './components/Clubs';
 
+import Contactus from './components/Contactus';
+import Fail from './components/Fail';
+import Index from './components/Index';
+
+
+
 function App() {
   return (
     <main className="CSA Official Website">
